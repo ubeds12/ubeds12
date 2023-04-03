@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Devoloper 
-
+- 🔭 Future Devoloper 
+- 🔎 Fresher looking for job
+- 📱 Reache me on 
+- 
 
 
 
