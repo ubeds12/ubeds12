@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 - 🔭 Future Devoloper 
 - 🔎 Fresher looking for job
-- 📱 Reache me on 
-- 
+- 📱 Reache me on [LinkedIn](www.linkedin.com/in/ubed-shaikh)
+- 📬 Mail [Mail](ubeds012@gmail.com)
 
 
 
