@@ -1,5 +1,7 @@
 ### Hi there 👋 i'm [UBED SHAIKH](https://github.com/ubeds12) 
 
+ 
+
 <!--
 **ubeds12/ubeds12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=ubeds12&color=red&style=for-the-badge)
 
 - 🔭 Future Devoloper 
 - 🔎 Fresher looking for job
@@ -22,4 +25,3 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=ubeds12&color=red&style=for-the-badge)
