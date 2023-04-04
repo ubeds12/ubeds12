@@ -1,4 +1,4 @@
-### Hi there i'm [UBED SHAIKH](https://github.com/ubeds12) 👋
+### Hi there 👋 i'm [UBED SHAIKH](https://github.com/ubeds12) 
 
 <!--
 **ubeds12/ubeds12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
