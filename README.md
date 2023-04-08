@@ -21,9 +21,4 @@
 <img height="48px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 </div> <br><hr>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ubeds12&" alt="ubeds12" /></p>
-
-
-
-
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ubeds12&theme=highcontrast" alt="ubeds12" /></p>
