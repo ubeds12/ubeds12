@@ -7,7 +7,7 @@
   <a href="https://instagram.com/__ubed_shaikh__?igshid=MGNiNDI5ZTU=">
     <img src="https://img.shields.io/badge/Instagarm-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/_ubed_shaikh">
+  <a href="https://twitter.com/_ubed_shaikh_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter Badge"/>
   </a>
 </div>
