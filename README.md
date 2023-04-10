@@ -26,7 +26,7 @@
     
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Like to explore new technologys 
+- :seedling: Like to explore new technologys. 
 
 - :zap: I'm a fresher and actively looking for new opportunities.
 
