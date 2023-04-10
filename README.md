@@ -12,8 +12,44 @@
   </a>
   <div id="badge"> 
     <img src= "https://komarev.com/ghpvc/?username=ubeds12&color=red&style=for-the-badge" alt="counter">
-    <h1>
-  hey there
+   
+  </div>
+  
+---
+  <h1>
+  Hey there I'm UBED
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  </h1>
+  <div id="about" align="left">
+    <h3>:woman_technologist: About Me :</h3>
+    I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Like to explore new technologys 
+
+- :zap: I'm a fresher and actively looking for new opportunities.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ubed_shaikh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubed-shaikh)
+    
+ ---
+
+### :hammer_and_wrench: Languages and Tools :
+   <div>
+
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+ 
 </div>
+    
+---
+
+### :fire: My Stats :
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ubeds12&theme=highcontrast" alt="ubeds12"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubeds12&layout=compact&theme=vision-friendly-dark" alt="ubeds12"/>
