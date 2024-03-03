@@ -30,7 +30,7 @@
 
 - :zap: I'm a fresher and actively looking for new opportunities.
 
-- :mailbox:  How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-Ubed_shaikh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ubed-shaikh)
+- :mailbox:  How to reach me: ubeds012@gmail.com
     
  ---
 
